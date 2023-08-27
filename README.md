@@ -5,12 +5,12 @@ README
 
     This webpage was created with React and utilizes single-page navigation to move between the "About Us", "Products", and "Contact" sections. Custom components, including imagery, the header with navigation, and buttons, were used to enhance the design. The project underwent peer review and was updated as needed.
 
-AUTHOR
-    Bilal Bates
+    AUTHOR
+        Bilal Bates
 
 
-INSTALL 
-    To install this project, go to
-    https://github.com/bilbat3454/CIS453_CourseProject
-    Run ‘npm install’ in the terminal while in the project’s directory 
+    INSTALL 
+        To install this project, go to
+        https://github.com/bilbat3454/CIS453_CourseProject
+        Run ‘npm install’ in the terminal while in the project’s directory 
 
