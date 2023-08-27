@@ -1,10 +1,11 @@
 import React, { Component } from "react";
+import Contact_banner from "./Images/Contact.png";
  
 class Contact extends Component {
   render() {
     return (
       <div>
-        <h1>Contact</h1>
+        <p><img src={Contact_banner} alt="logo" style={{ width: '750px', }}/></p>
         <p>Greetings! We are located in beautiful southern California, right 
           near the mountains of the San Gabriel Valley. Please reach out, as 
           we welcome all inquiries and feedback!</p>
